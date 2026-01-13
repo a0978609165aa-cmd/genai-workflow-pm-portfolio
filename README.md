@@ -1,1 +1,5 @@
-# genai-workflow-pm-portfolio
+genai-workflow-pm-portfolio/
+  README.md
+  docs/
+  diagrams/
+  eval/
